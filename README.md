@@ -23,13 +23,19 @@ We would like you to write a simple app, mocking the backend. Below is the user 
 
 ## Splash screen
 
-![Splash Screen](./splash.png)
+<kbd>
+<img src="./splash.png">
+</kbd>
 
 ## Registration screen
 
-![Registration Screen](./signup.png)
+<kbd>
+<img src="./signup.png">
+</kbd>
 
 ## Confirmation screen
 
-![Confirmation Screen](./confirmation.png)
+<kbd>
+<img src="./confirmation.png">
+</kbd>
 
