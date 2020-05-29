@@ -1,5 +1,6 @@
 # Overview
-We would like you to write a simple app, mocking the backend. Below is the user story, followed by the design.
+We would like you to write a simple App, mocking the backend. Below is the user story, followed by the design.
+The App should be written in a language which support both Android and ios (i.e. React Native or Flutter)
 
 # Acceptance Criteria
 
