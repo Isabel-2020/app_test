@@ -27,8 +27,9 @@ We would like you to write a simple app, mocking the backend. Below is the user 
 
 ## Registration screen
 
-![Registration Screen](./registration.png)
+![Registration Screen](./signup.png)
 
 ## Confirmation screen
 
 ![Confirmation Screen](./confirmation.png)
+
